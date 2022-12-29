@@ -1,0 +1,4 @@
+-- New script in LOCAL.
+-- Date: 29 de dez. de 2022
+-- Time: 15:52:09
+-- By Analista Wesley
